@@ -1,6 +1,8 @@
 # Shopping App 
   This is an Open Sourced full stack E-Commerce App. 
   Developed by 8 sense technology 
+  
+  This is a copyrights copy for only demonstration. Do not use or Change any code of this.
 
  
  
